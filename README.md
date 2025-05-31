@@ -1,11 +1,10 @@
-# COMP3009J Information Retrieval --- Small and Large Corpus
+# COMP3009J Information Retrieval - Small and Large Corpus
 
 ## Notification
 
 * All code runs within the command line and based on testing, all code can run normally.
 
-* If you are using **Conda**, please make sure to activate the corresponding Conda environment,eg: '**conda activate xxx
-  **'
+* If you are using **Conda**, please make sure to activate the corresponding Conda environment,eg: `conda activate xxx`
 
 * If using a **local root environment**, please ensure that Python can be found correctly.
 
