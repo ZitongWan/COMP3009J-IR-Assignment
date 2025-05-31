@@ -1,4 +1,4 @@
-# COMP3009J Information Retrieval - Small and Large Corpus
+# COMP3009J Information Retrieval —— Small and Large Corpus
 
 ## Notification
 
